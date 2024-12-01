@@ -1,0 +1,73 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Parte 1 */
+.arbol {
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+}
+
+.arbol img {
+    width: 200px;
+    border-radius: 50px;
+}
+
+/* Parte 2 */
+.stickers {
+    display: flex;
+    justify-content: center;
+    padding: 10px 60px 10px 60px;
+}
+
+.box {
+    width: 500px;
+    text-align: center;
+    border: solid black 1px;
+    padding: 8px 0px 8px 0px;
+}
+
+.stick {
+    display: flex;
+    padding: 10px 5px 10px 5px;
+}
+
+.stick0 img {
+    width: 6em;
+    height: 6.2em;
+}
+
+.box h2 {
+    font-size: 1em;
+}
+
+.stick0 input {
+    width: 40%;
+}
+
+/* Parte 3 */
+.password {
+    display: flex;
+    justify-content: center;
+    padding-top: 30px;
+}
+
+.boxpass {
+    width: 300px;
+    height: 200px;
+    background-color: rgb(0, 0, 0);
+    text-align: center;
+    color: aliceblue;
+    padding: 15px 0px 15px 0px;
+}
+
+.seleccionar {
+    padding: 20px;
+}
+
+.boxpass p {
+    padding-top: 10px;
+}
